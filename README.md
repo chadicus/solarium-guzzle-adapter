@@ -12,8 +12,7 @@
 [![Daily Downloads](https://poser.pugx.org/chadicus/solarium-guzzle-adapter/d/daily)](https://packagist.org/packages/chadicus/solarium-guzzle-adapter)
 [![Monthly Downloads](https://poser.pugx.org/chadicus/solarium-guzzle-adapter/d/monthly)](https://packagist.org/packages/chadicus/solarium-guzzle-adapter)
 
-A [Solarium Adapter](http://solarium.readthedocs.io/en/stable/client-and-adapters/) implementation use [Guzzle](http://docs.guzzlephp.org/en/latest/). A [Pull Request]() exists to put this into the Solarium project. But as of right now, the main library supports PHP <= 5.5. This library was created
-as to use the adapter immediately in various projects
+A [Solarium Adapter](http://solarium.readthedocs.io/en/stable/client-and-adapters/) implementation use [Guzzle](http://docs.guzzlephp.org/en/latest/). A [Pull Request](https://github.com/solariumphp/solarium/pull/466) exists to put this into the Solarium project. But as of right now, the main library supports PHP <= 5.5. This library was created as to use the adapter immediately in various projects
 
 ## Requirements
 
