@@ -1,4 +1,7 @@
 {
+    "name": "chadicus/solarium-guzzle-adapter",
+    "description": "Solarium Adapter interface implemented with Guzzle 6.",
+    "keywords": ["solarium", "solr", "guzzle"],
     "require": {
         "php": "^5.6 || ^7.0",
         "guzzlehttp/guzzle": "^6.2",
