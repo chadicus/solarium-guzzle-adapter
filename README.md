@@ -3,7 +3,6 @@
 [![Build Status](https://travis-ci.org/chadicus/solarium-guzzle-adapter.svg?branch=master)](https://travis-ci.org/chadicus/solarium-guzzle-adapter)
 [![Code Quality](https://scrutinizer-ci.com/g/chadicus/solarium-guzzle-adapter/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/chadicus/solarium-guzzle-adapter/?branch=master)
 [![Code Coverage](https://coveralls.io/repos/github/chadicus/solarium-guzzle-adapter/badge.svg?branch=master)](https://coveralls.io/github/chadicus/solarium-guzzle-adapter?branch=master)
-[![Reference Status](https://www.versioneye.com/php/chadicus:solarium-guzzle-adapter/reference_badge.svg?style=flat)](https://www.versioneye.com/php/chadicus:solarium-guzzle-adapter/references)
 
 [![Latest Stable Version](https://poser.pugx.org/chadicus/solarium-guzzle-adapter/v/stable)](https://packagist.org/packages/chadicus/solarium-guzzle-adapter)
 [![Latest Unstable Version](https://poser.pugx.org/chadicus/solarium-guzzle-adapter/v/unstable)](https://packagist.org/packages/chadicus/solarium-guzzle-adapter)
