@@ -1,3 +1,6 @@
+# This package is abandoned. The Guzzle Adapter is now availble with Solarium 3.8
+
+
 # Solarium\Core\Client\Adapter\GuzzleAdapter
 
 [![Build Status](https://travis-ci.org/chadicus/solarium-guzzle-adapter.svg?branch=master)](https://travis-ci.org/chadicus/solarium-guzzle-adapter)
